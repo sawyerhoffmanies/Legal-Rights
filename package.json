@@ -1,0 +1,9 @@
+{
+  "name": "legalrights",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive image-free legal rights website",
+  "scripts": {
+    "start": "python3 -m http.server 3000"
+  }
+}
